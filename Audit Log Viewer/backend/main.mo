@@ -1,4 +1,9 @@
-tLogs(page : Nat, pageSize : Nat)
+// by iLy Audit Log Viewer -- Standalone Motoko canister
+// Version: 1.0.0
+//
+// Public API
+// ----------
+// getAuditLogs(page : Nat, pageSize : Nat)
 //   -> { entries : [AuditEntry]; total : Nat }
 //
 //   Returns a page-based slice of the audit log.
