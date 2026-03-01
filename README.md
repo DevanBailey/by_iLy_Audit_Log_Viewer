@@ -1,4 +1,4 @@
-# by_iLy_Audit_Log_Viewer
+# by iLy | Audit Log Viewer
 
 A read-only audit log viewer for Internet Computer (ICP) canisters. Displays a
 paginated table of system events -- timestamp, principal, action, entity -- with
